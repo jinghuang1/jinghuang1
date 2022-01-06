@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jinghuang1
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @jinghuang
+- 👀 I’m interested in living
 - 🌱 I’m currently learning web service coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me foreverlpl006@163.com
